@@ -31,7 +31,7 @@ git clone https://github.com/devAbdulsalam/QueensCollections.git
 
 ## Contact
 
-If you want to contact me you can reach me at [Gmail](https://mailto/devabdulsalam74.gmail.com).
+If you want to contact me you can reach me at [Gmail](https://mailto:devabdulsalam74@gmail.com).
 
 ## License
 
